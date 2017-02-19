@@ -1,0 +1,3 @@
+stationid,metric,date,location,max,mean,median,min,percentile1,percentile5,percentile95,percentile99,total
+LAE,barometricpressure,2014-01-01 00:00:00+0000,Nadzab,950,944,944,940,940,940,948,950,1360374
+LAE,barometricpressure,2014-01-02 00:00:00+0000,Nadzab,940,934,935,926,926,927,939,940,1346217
